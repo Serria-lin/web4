@@ -7,5 +7,5 @@ export default defineConfig({
     port: 3000,
     open: true
   },
-  base: '/byd_car/',
+  base: '/web4/',
 })
